@@ -6,7 +6,7 @@ public class Main {
         mainMethodShowInfo();
     }
    public static void  mainMethodShowMessageable () {
-       System.out.println("Hello able QA course\n");
+       System.out.println("Hello able QA course people \n");
    }
        public static void mainMethodShowInfo (){
        System.out.println("new changes");
